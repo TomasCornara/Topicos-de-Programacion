@@ -22,7 +22,7 @@
 1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1680199396 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+1680202890 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
 
 1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -32,8 +32,20 @@
 
 1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
 
-1680199563 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+1680202966 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
+
+1680199655 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\raizcuadrada.c
+	<math.h>
+
+1680202106 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\seno.c
+	<math.h>
+	"../main/misFunciones.h"
+
+1680203056 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\perfecto.c
+	<math.h>
+	<stdio.h>
+	"../main/misFunciones.h"
 

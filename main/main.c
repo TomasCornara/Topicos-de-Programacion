@@ -4,5 +4,6 @@
 
 int main()
 {
+    perfecto(12);
     return (0);
 }
