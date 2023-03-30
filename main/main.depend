@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1680199329 source:d:\escritorio\topicos de programacion\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1680199329 d:\escritorio\topicos de programacion\main\misfunciones.h
+
+1680116159 source:d:\escritorio\topicos de programacion\bibliotecas\factorial.c
+
+1680177146 source:d:\escritorio\topicos de programacion\bibliotecas\combinatorio.c
+	"../main/misFunciones.h"
+
+1680198267 source:d:\escritorio\topicos de programacion\bibliotecas\ealax.c
+	<math.h>
+	"../main/misFunciones.h"
+
+1680198019 source:d:\escritorio\topicos de programacion\bibliotecas\raizcuadrada.c
+
+1680199341 source:d:\escritorio\topicos de programacion\bibliotecas\fibonacci.c
+
+1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
+	"../main/misFunciones.h"
+
+1680199396 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+
+1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
+	<math.h>
+	"../main/misFunciones.h"
+
+1680116159 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\factorial.c
+
+1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
+
+1680199563 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
