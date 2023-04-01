@@ -22,7 +22,7 @@
 1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1680202890 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+1680226143 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
 
 1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -32,7 +32,7 @@
 
 1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
 
-1680202966 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+1680226148 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
@@ -45,6 +45,16 @@
 	"../main/misFunciones.h"
 
 1680203056 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\perfecto.c
+	<math.h>
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1680223578 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\multisus.c
+	<math.h>
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1680225899 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\cocienteresto.c
 	<math.h>
 	<stdio.h>
 	"../main/misFunciones.h"

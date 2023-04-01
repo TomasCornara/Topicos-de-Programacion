@@ -4,6 +4,10 @@
 
 int main()
 {
-    perfecto(12);
+    resultDiv x;
+
+    x = dividir(11,2);
+    printf("%d %d",x.cociente,x.resto);
+
     return (0);
 }
