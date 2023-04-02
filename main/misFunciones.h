@@ -18,6 +18,8 @@ void perfecto(int); //ejercicio 7
 int multiplicacion (int ,int); //ejercicio 8
 resultDiv dividir(int, int); //ejercicio 9
 int sumaPrimerosN(int); //ejercicio 10
-int sumaParesN(int numero); //ejercicio 11
+int sumaParesN(int); //ejercicio 11
+int sumaParesMenores(int); //ejercicio 12
+void primo(int); // ejercicio 13
 
 #endif // MISFUNCIONES_H_INCLUDED

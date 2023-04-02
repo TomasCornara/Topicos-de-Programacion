@@ -62,7 +62,7 @@
 1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1680396639 c:\users\pc\documents\github\topicos-de-programacion\main\misfunciones.h
+1680405590 c:\users\pc\documents\github\topicos-de-programacion\main\misfunciones.h
 
 1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -79,7 +79,7 @@
 	<math.h>
 	"../main/misFunciones.h"
 
-1680397990 source:c:\users\pc\documents\github\topicos-de-programacion\main\main.c
+1680405661 source:c:\users\pc\documents\github\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
@@ -102,4 +102,9 @@
 1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\suman.c
 
 1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\sumanpar.c
+
+1680404026 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\sumaparesmenores.c
+
+1680405612 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\primo.c
+	<stdio.h>
 

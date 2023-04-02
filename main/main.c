@@ -4,7 +4,7 @@
 
 int main()
 {
-    printf("%f", seno(3.0,0.1));
 
+    primo(14897);
     return (0);
 }
