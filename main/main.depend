@@ -59,3 +59,47 @@
 	<stdio.h>
 	"../main/misFunciones.h"
 
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\combinatorio.c
+	"../main/misFunciones.h"
+
+1680396639 c:\users\pc\documents\github\topicos-de-programacion\main\misfunciones.h
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\ealax.c
+	<math.h>
+	"../main/misFunciones.h"
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\factorial.c
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\fibonacci.c
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\raizcuadrada.c
+	<math.h>
+
+1680397922 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\seno.c
+	<math.h>
+	"../main/misFunciones.h"
+
+1680397990 source:c:\users\pc\documents\github\topicos-de-programacion\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\cocienteresto.c
+	<math.h>
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\multisus.c
+	<math.h>
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\perfecto.c
+	<math.h>
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\suman.c
+
+1680396639 source:c:\users\pc\documents\github\topicos-de-programacion\bibliotecas\sumanpar.c
+

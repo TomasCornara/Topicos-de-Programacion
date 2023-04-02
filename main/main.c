@@ -4,10 +4,7 @@
 
 int main()
 {
-    resultDiv x;
-
-    x = dividir(11,2);
-    printf("%d %d",x.cociente,x.resto);
+    printf("%f", seno(3.0,0.1));
 
     return (0);
 }
