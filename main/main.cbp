@@ -31,6 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="../Bibliotecas/InsertarElemento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/InsertarOrdenado.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../Bibliotecas/combinatorio.c">
 			<Option compilerVar="CC" />
 		</Unit>

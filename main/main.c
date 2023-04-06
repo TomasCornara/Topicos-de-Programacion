@@ -4,10 +4,13 @@
 
 int main()
 {
-    resultDiv x;
+    int vector[4] = {1,3,5,7};
+    insertarOrdenado(vector,4,1);
 
-    x = dividir(11,2);
-    printf("%d %d",x.cociente,x.resto);
+    int i;
+    for (i = 0; i < 4; i++) {
+        printf("%d ", vector[i]);
+    }
+    return 0;
 
-    return (0);
 }

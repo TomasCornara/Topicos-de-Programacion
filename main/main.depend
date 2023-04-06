@@ -22,7 +22,7 @@
 1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1680226143 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+1680747687 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
 
 1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -32,7 +32,7 @@
 
 1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
 
-1680226148 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+1680747940 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
@@ -58,4 +58,8 @@
 	<math.h>
 	<stdio.h>
 	"../main/misFunciones.h"
+
+1680745333 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\insertarelemento.c
+
+1680747906 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\insertarordenado.c
 

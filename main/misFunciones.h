@@ -20,4 +20,9 @@ resultDiv dividir(int, int); //ejercicio 9
 int sumaPrimerosN(int); //ejercicio 10
 int sumaParesN(int numero); //ejercicio 11
 
+//Ejercicios vectores
+void insertarElemento(int*, int, int, int); //ejercicio 22
+void insertarOrdenado(int*,int,int); //ejercicio 23
+void eliminar(int*,int,int); //ejercicio 24
+
 #endif // MISFUNCIONES_H_INCLUDED
