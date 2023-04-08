@@ -22,7 +22,7 @@
 1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1680747687 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+1680917883 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
 
 1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -32,7 +32,7 @@
 
 1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
 
-1680747940 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+1680925280 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
@@ -40,7 +40,7 @@
 1680199655 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\raizcuadrada.c
 	<math.h>
 
-1680202106 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\seno.c
+1680752091 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\seno.c
 	<math.h>
 	"../main/misFunciones.h"
 
@@ -62,4 +62,17 @@
 1680745333 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\insertarelemento.c
 
 1680747906 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\insertarordenado.c
+
+1680752091 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\primo.c
+	<stdio.h>
+
+1680226546 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\suman.c
+
+1680226546 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\sumanpar.c
+
+1680752091 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\sumaparesmenores.c
+
+1680925291 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\eliminar.c
+
+1680925260 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\eliminarprim.c
 

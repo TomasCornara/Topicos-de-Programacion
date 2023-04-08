@@ -4,12 +4,13 @@
 
 int main()
 {
-    int vector[4] = {1,3,5,7};
-    insertarOrdenado(vector,4,1);
+    int vector[4] = {1,2,1,3},tam = 4;
+    eliminarPrim(vector,&tam,3);
 
     int i;
-    for (i = 0; i < 4; i++) {
+    for (i = 0; i < tam; i++) {
         printf("%d ", vector[i]);
+
     }
     return 0;
 
