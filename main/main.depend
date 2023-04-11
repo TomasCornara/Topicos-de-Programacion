@@ -22,7 +22,7 @@
 1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1680917883 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+1681231287 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
 
 1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -32,7 +32,7 @@
 
 1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
 
-1680925280 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+1681230820 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
@@ -74,5 +74,7 @@
 
 1680925291 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\eliminar.c
 
-1680925260 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\eliminarprim.c
+1681231095 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\eliminarprim.c
+
+1681231095 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\eliminartodas.c
 

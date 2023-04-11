@@ -26,7 +26,8 @@ void primo(int); // ejercicio 13
 void insertarElemento(int*, int, int, int); //ejercicio 22
 void insertarOrdenado(int*,int,int); //ejercicio 23
 void eliminar(int*,int*,int); //ejercicio 24
-void eliminarPrim(int*,int,int);
+void eliminarPrim(int*,int*,int); //ejercicio 25
+void eliminarTodas(int*, int*, int); //ejercicio 26
 
 
 #endif // MISFUNCIONES_H_INCLUDED

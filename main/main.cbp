@@ -37,10 +37,22 @@
 		<Unit filename="../Bibliotecas/InsertarOrdenado.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="../Bibliotecas/cocienteResto.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../Bibliotecas/combinatorio.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../Bibliotecas/eAlaX.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/eliminar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/eliminarPrim.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/eliminarTodas.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../Bibliotecas/factorial.c">
@@ -49,7 +61,28 @@
 		<Unit filename="../Bibliotecas/fibonacci.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="../Bibliotecas/multiSus.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/perfecto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/primo.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../Bibliotecas/raizCuadrada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/seno.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/sumaN.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/sumaNPar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/sumaParesMenores.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="header.h" />
