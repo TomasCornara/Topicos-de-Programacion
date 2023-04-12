@@ -64,6 +64,9 @@
 		<Unit filename="../Bibliotecas/multiSus.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="../Bibliotecas/palindromo.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../Bibliotecas/perfecto.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -83,6 +86,10 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="../Bibliotecas/sumaParesMenores.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../Bibliotecas/valorNumerico" />
+		<Unit filename="../Bibliotecas/valorNumerico.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="header.h" />

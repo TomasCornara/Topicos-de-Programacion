@@ -28,6 +28,7 @@ void insertarOrdenado(int*,int,int); //ejercicio 23
 void eliminar(int*,int*,int); //ejercicio 24
 void eliminarPrim(int*,int*,int); //ejercicio 25
 void eliminarTodas(int*, int*, int); //ejercicio 26
-
+int palindromo(char*, int); //ejercicio 27
+int valorNumerico(char*); //Ejercicio 28
 
 #endif // MISFUNCIONES_H_INCLUDED

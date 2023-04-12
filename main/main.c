@@ -2,17 +2,9 @@
 #include <stdlib.h>
 #include "misFunciones.h"
 
-int main()
-{
-    int vector[5] = {1,2,2,2,4},tam = 5;
-    eliminarTodas(vector,&tam,2);
-
-    int i;
-    for (i = 0; i < tam; i++) {
-
-        printf("%d ", vector[i]);
-
-    }
+int main() {
+    char cadena[] = "12345";
+    int valor = valorNumerico(cadena);
+    printf("El valor numérico de la cadena '%s' es: %d\n", cadena, valor);
     return 0;
-
 }
