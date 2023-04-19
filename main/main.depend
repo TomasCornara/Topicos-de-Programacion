@@ -22,7 +22,7 @@
 1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1681242408 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+1681902355 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
 
 1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -83,4 +83,26 @@
 1681241501 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\palindromo.c
 
 1681242435 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\valornumerico.c
+
+1681901579 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\incidencias.c
+
+1681901629 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\incidenciass.c
+
+1681901939 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringcopy.c
+
+1681901985 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringlength.c
+
+1681902088 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringcompare.c
+
+1681902573 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\puntofinal.c
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1681902700 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\normalizarmayus.c
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1681902779 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\quitarsimbolos.c
+	<stdio.h>
+	"../main/misFunciones.h"
 

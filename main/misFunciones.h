@@ -31,4 +31,19 @@ void eliminarTodas(int*, int*, int); //ejercicio 26
 int palindromo(char*, int); //ejercicio 27
 int valorNumerico(char*); //Ejercicio 28
 
+//Ejercicios de tarea
+unsigned int incidencias(char*, char*); //incidencias sin solapamiento
+unsigned int incidenciasS(char*, char*); // con solapamiento
+
+//Ctype
+char* stringCopy(char*, const char*); //strcpy
+unsigned int stringLength ( const char*); //strlen
+unsigned int stringCompare (const char*, const char*); //stcmp
+
+//normalizacion
+void normalizarPrimeraMayuscula(char *cadena);
+void normalizarPuntoFinal(char *cadena);
+void normalizarQuitarSimbolos(char *cadena);
+void normalizarQuitarBlancos(char *cadena);
+
 #endif // MISFUNCIONES_H_INCLUDED
