@@ -1,12 +1,12 @@
 unsigned int stringLength ( const char *s)
 {
-    unsigned contador = 0;
+    unsigned cantidad = 0;
 
-    while(*s != '\0')
+    while(*s)
     {
-        contador++;
+        cantidad++;
         s++;
     }
 
-    return(contador);
+    return(cantidad);
 }

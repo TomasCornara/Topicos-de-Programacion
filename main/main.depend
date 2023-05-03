@@ -32,7 +32,7 @@
 
 1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
 
-1681242364 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+1681903788 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
@@ -88,9 +88,9 @@
 
 1681901629 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\incidenciass.c
 
-1681901939 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringcopy.c
+1681903904 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringcopy.c
 
-1681901985 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringlength.c
+1681903739 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringlength.c
 
 1681902088 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\stringcompare.c
 
@@ -103,6 +103,10 @@
 	"../main/misFunciones.h"
 
 1681902779 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\quitarsimbolos.c
+	<stdio.h>
+	"../main/misFunciones.h"
+
+1681903327 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\quitarblancos.c
 	<stdio.h>
 	"../main/misFunciones.h"
 

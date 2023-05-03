@@ -1,5 +1,6 @@
 #ifndef MISFUNCIONES_H_INCLUDED
 #define MISFUNCIONES_H_INCLUDED
+#define TAMCOL 5
 
 typedef struct
 {
@@ -45,5 +46,19 @@ void normalizarPrimeraMayuscula(char *cadena);
 void normalizarPuntoFinal(char *cadena);
 void normalizarQuitarSimbolos(char *cadena);
 void normalizarQuitarBlancos(char *cadena);
+
+//Ejercicio Matrices
+void MostrarDiagPpal(int[][TAMCOL]);
+void MostrarDiagSec(int[][TAMCOL]);
+void MostrarTrianSup(int[][TAMCOL]);
+void MostrarDiagInf(int[][TAMCOL]);
+void MostrarTriangulitoSup(int[][TAMCOL]);
+void MostrarTriangulitoDer(int[][TAMCOL]);
+void MostrarTriangulitoInf(int [][TAMCOL]);
+void MostrarTriangulitoIzq(int [][TAMCOL]);
+void RecorrerMatrizEnEspiral(int [][TAMCOL]);
+void MultiplicarMatrices(int [][TAMCOL1], int [][TAMCOL2], int [][TAMCOL2]);
+
+
 
 #endif // MISFUNCIONES_H_INCLUDED
