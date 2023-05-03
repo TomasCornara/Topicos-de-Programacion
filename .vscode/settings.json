@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "mostrardiagonalprincipal": "c",
-        "mostrartrianguloinferior": "c",
-        "mostrartrianguloizq": "c",
-        "matrizespiral": "c",
-        "matrizmultiplicacion": "c"
-    }
-}
