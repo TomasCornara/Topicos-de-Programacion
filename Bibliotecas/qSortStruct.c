@@ -1,0 +1,87 @@
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+
+typedef struct {
+    char nombre[31];
+    char apellido[31];
+    int dni;
+    int edad;
+    int telefono;
+} alumno;
+
+
+/*int comparar_alumnos_apellido_nombre(const void*, const void*);
+int comparar_alumnos_dni(const void*, const void*);
+
+int main(){
+
+    //Creo puntero a funcion
+    int (*comparar_alumnos_ptr)(const void *, const void *) = comparar_alumnos_apellido_nombre;
+
+    //Creo el vector de alumnos y lo cargo
+    alumno vector[] = {
+        {"Juan", "Perez", 123456, 20, 5555555},
+        {"Maria", "Gonzalez", 123456, 21, 5555556},
+        {"Juan", "Perez", 789012, 19, 5555557},
+        {"Pedro", "Lopez", 345678, 21, 5555558},
+        {"Luis", "Garcia", 234567, 18, 5555559},
+        {"Juan", "Gonzalez", 987654, 22, 5555560},
+        {"Pedro", "Lopez", 234567, 20, 5555561},
+        {"Maria", "Gonzalez", 789012, 23, 5555562},
+        {"Luis", "Garcia", 345678, 19, 5555563},
+        {"Pedro", "Lopez", 123456, 24, 5555564}
+    };
+
+    //Calculo el tamaño
+    int numeroElementos = sizeof(vector) / sizeof(alumno);
+
+
+    //Ordeno el vector
+    qsort(vector,numeroElementos,sizeof(alumno),comparar_alumnos_ptr);
+
+    //Imprimo el vector
+    for(int i = 0;i < 10;i++){
+        printf("%s %s %d %d %d\n",vector[i].nombre,vector[i].apellido,vector[i].dni,vector[i].edad,vector[i].telefono);
+    }
+
+
+    //Hago espacio c:
+    printf("\n\n\n\n");
+    //Desde aca para abajo, ordeno por dni
+
+
+    //Ordeno por DNI
+    qsort(vector,numeroElementos,sizeof(alumno),comparar_alumnos_dni);
+
+    //Imprimo el vector
+    for(int i = 0;i < 10;i++){
+        printf("%s %s %d %d %d\n",vector[i].nombre,vector[i].apellido,vector[i].dni,vector[i].edad,vector[i].telefono);
+    }
+
+
+    return 0;
+}*/
+
+int comparar_alumnos_apellido_nombre(const void *a, const void *b) {
+    const alumno *alumno_a = (const alumno *) a;
+    const alumno *alumno_b = (const alumno *) b;
+
+    int comparacion_apellidos = strcmp(alumno_a->apellido, alumno_b->apellido);
+
+    if (comparacion_apellidos != 0) {
+        return comparacion_apellidos;
+    } else {
+        return strcmp(alumno_a->nombre, alumno_b->nombre);
+    }
+}
+
+int comparar_alumnos_dni(const void *a, const void *b){
+    /*Aca declaro un puntero constante del tipo alumno que apunta a el parametro "a" o "b" que a su vez
+    es casteado a (const alumno*) que es el tipo de dato (recordemos que viene como void*)*/
+
+    const alumno *alumno_a = (const alumno *) a;
+    const alumno *alumno_b = (const alumno *) b;
+
+    return ((alumno_a->dni == alumno_b->dni) ? 0 : ((alumno_a->dni > alumno_b->dni) ? 1 : -1));
+}

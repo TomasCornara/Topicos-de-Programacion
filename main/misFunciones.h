@@ -8,6 +8,15 @@ typedef struct
         resto;
 } resultDiv;
 
+typedef struct {
+    char nombre[31];
+    char apellido[31];
+    int dni;
+    int edad;
+    int telefono;
+} alumno;
+
+
 // Unidad 1
 unsigned int factorial(unsigned int); // ejercicio 1
 unsigned int combinatorio(unsigned int, unsigned int); //ejercicio 2
@@ -59,6 +68,20 @@ void MostrarTriangulitoIzq(int [][TAMCOL]);
 void RecorrerMatrizEnEspiral(int [][TAMCOL]);
 void MultiplicarMatrices(int [][TAMCOL1], int [][TAMCOL2], int [][TAMCOL2]);
 
+//Imprimir generico
+void printGen(const void*, int, size_t, void (*)(const void*));
+void printInt(const void*);
+void printFloat(const void*);
+void printChar(const void*);
+void printStruct(const void*);
 
+//Funciones de memoria dinamica
+void* memoryCopy(void*,const void*, size_t);
+void* memeMove (void*, const void*, size_t);
+
+//Ejercicios Qsort + Struct
+
+int comparar_alumnos_apellido_nombre(const void*, const void*);
+int comparar_alumnos_dni(const void*, const void*);
 
 #endif // MISFUNCIONES_H_INCLUDED
