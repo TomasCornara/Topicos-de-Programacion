@@ -4,4 +4,4 @@ Repo personal para la resolucion de la guia y ejercicios de clase de la materia 
 
 
 
-![](https://i.redd.it/zzaceklu8f291.gif)
+![](https://cdn.discordapp.com/attachments/673346179152609280/1118335651448893520/image.png)
