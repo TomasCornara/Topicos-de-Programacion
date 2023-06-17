@@ -22,7 +22,9 @@
 1680177146 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\combinatorio.c
 	"../main/misFunciones.h"
 
-1681902355 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+1686157762 d:\escritorio\topicos de programacion\topicos-de-programacion\main\misfunciones.h
+	<stdio.h>
+	<stdlib.h>
 
 1680198267 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\ealax.c
 	<math.h>
@@ -32,10 +34,11 @@
 
 1680199341 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\fibonacci.c
 
-1681903788 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
+1686164047 source:d:\escritorio\topicos de programacion\topicos-de-programacion\main\main.c
 	<stdio.h>
 	<stdlib.h>
 	"misFunciones.h"
+	<string.h>
 
 1680199655 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\raizcuadrada.c
 	<math.h>
@@ -109,4 +112,12 @@
 1681903327 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\quitarblancos.c
 	<stdio.h>
 	"../main/misFunciones.h"
+
+1686157807 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\archivo5.1.c
+	<stdio.h>
+	<stdlib.h>
+
+1686161950 source:d:\escritorio\topicos de programacion\topicos-de-programacion\bibliotecas\archivo5.2.c
+	<stdio.h>
+	<stdlib.h>
 

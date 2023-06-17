@@ -37,6 +37,9 @@
 		<Unit filename="../Bibliotecas/InsertarOrdenado.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="../Bibliotecas/archivo5.1.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="../Bibliotecas/cocienteResto.c">
 			<Option compilerVar="CC" />
 		</Unit>

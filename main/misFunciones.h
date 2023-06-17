@@ -1,6 +1,8 @@
 #ifndef MISFUNCIONES_H_INCLUDED
 #define MISFUNCIONES_H_INCLUDED
 #define TAMCOL 5
+#include <stdio.h>
+#include <stdlib.h>
 
 typedef struct
 {
@@ -8,7 +10,8 @@ typedef struct
         resto;
 } resultDiv;
 
-typedef struct {
+typedef struct
+{
     char nombre[31];
     char apellido[31];
     int dni;
@@ -25,7 +28,7 @@ float raizCuadrada(unsigned int, float); //ejercicio 4
 unsigned fibonacci(unsigned int); //Ejercicio 5. Devuelve 0 si es falso, uno si es verdadero
 float seno(float, float); //Ejercicio 6
 void perfecto(int); //ejercicio 7
-int multiplicacion (int ,int); //ejercicio 8
+int multiplicacion (int,int);  //ejercicio 8
 resultDiv dividir(int, int); //ejercicio 9
 int sumaPrimerosN(int); //ejercicio 10
 int sumaParesN(int); //ejercicio 11
@@ -66,7 +69,7 @@ void MostrarTriangulitoDer(int[][TAMCOL]);
 void MostrarTriangulitoInf(int [][TAMCOL]);
 void MostrarTriangulitoIzq(int [][TAMCOL]);
 void RecorrerMatrizEnEspiral(int [][TAMCOL]);
-void MultiplicarMatrices(int [][TAMCOL1], int [][TAMCOL2], int [][TAMCOL2]);
+void MultiplicarMatrices(int [][TAMCOL], int [][TAMCOL], int [][TAMCOL]);
 
 //Imprimir generico
 void printGen(const void*, int, size_t, void (*)(const void*));
@@ -83,5 +86,8 @@ void* memeMove (void*, const void*, size_t);
 
 int comparar_alumnos_apellido_nombre(const void*, const void*);
 int comparar_alumnos_dni(const void*, const void*);
+
+//Ejercicios archivo
+int abrirArchivo (const char*, int);
 
 #endif // MISFUNCIONES_H_INCLUDED
