@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1687275149 source:d:\escritorio\topicos modelos parcial\practica libre\merge\main.c
+	<stdio.h>
+	<stdlib.h>
+	"misFunciones.h"
+
+1687275149 d:\escritorio\topicos modelos parcial\practica libre\merge\misfunciones.h
+
+1687275323 source:d:\escritorio\topicos modelos parcial\practica libre\merge\merge.c
+	<stdio.h>
+	<stdlib.h>
+

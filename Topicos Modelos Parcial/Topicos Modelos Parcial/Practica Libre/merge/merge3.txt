@@ -1,0 +1,6 @@
+Este es el archivo 1.
+Tiene algunas lineas de texto.
+Puedes agregar mas contenido si lo deseas.
+Este es el archivo 2.
+Tiene lineas adicionales.
+Puedes editar este archivo segun sea necesario.

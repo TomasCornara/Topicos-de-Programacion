@@ -1,0 +1,3 @@
+Hola, este es el contenido de prueba del archivo de entrada.
+Puedes modificar este texto o agregar tu propio contenido.
+¡Buena suerte con tu práctica de programación en C!
